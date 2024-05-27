@@ -102,8 +102,8 @@ const Anuncio = () => {
 
             <div className="flex flex-col gap-1">
             <div>
-              <h1 className="TITULO text-xl text-gray-900">T2 duplex 2° andar</h1>
-              <h1 className="TITULO text-xl text-gray-900">(Ref. TF2)</h1>
+              <h1 className="TITULO text-xl text-gray-900">T2 - Rua do cotovelo 2º duplex </h1>
+              <h1 className="TITULO text-xl text-gray-900">(Ref. RC2D)</h1>
              
             </div>
             <div className="mt-1 mb-2">
